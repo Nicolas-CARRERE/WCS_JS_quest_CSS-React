@@ -1,3 +1,9 @@
+# Pourquoi ce choix ?
+
+J'ai choisi d'utiliser les "Styled components" car je trouve que c'est cette méthode qui permet la lisibilité la plus facile et la plus intuitive.
+On y retrouve une logique React avec la syntaxe initiale du CSS.
+De plus, cette méthode ressort très bien dans l'enquête de https://2021.stateofcss.com/technologies/css-in-js/.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
